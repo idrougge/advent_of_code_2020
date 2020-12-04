@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/iggy/Documents/advent_of_code_2020/idrougge-swift/day04.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=112&amp;EndingColumnNumber=10&amp;EndingLineNumber=3&amp;StartingColumnNumber=5&amp;StartingLineNumber=3&amp;Timestamp=628796513.542168"
+         lockedSize = "{581, 128}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/iggy/Documents/advent_of_code_2020/idrougge-swift/day04.playground#CharacterRangeLen=61&amp;CharacterRangeLoc=215&amp;EndingColumnNumber=82&amp;EndingLineNumber=4&amp;StartingColumnNumber=21&amp;StartingLineNumber=4&amp;Timestamp=628796513.542267"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/iggy/Documents/advent_of_code_2020/idrougge-swift/day04.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=312&amp;EndingColumnNumber=0&amp;EndingLineNumber=7&amp;StartingColumnNumber=1&amp;StartingLineNumber=6&amp;Timestamp=628796513.5423369"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/iggy/Documents/advent_of_code_2020/idrougge-swift/day04.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=407&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=1&amp;StartingLineNumber=9&amp;Timestamp=628796513.542401"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/iggy/Documents/advent_of_code_2020/idrougge-swift/day04.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=311&amp;EndingColumnNumber=0&amp;EndingLineNumber=6&amp;StartingColumnNumber=0&amp;StartingLineNumber=6&amp;Timestamp=628796513.542464"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/iggy/Documents/advent_of_code_2020/idrougge-swift/day04.playground#CharacterRangeLen=2447&amp;CharacterRangeLoc=408&amp;EndingColumnNumber=0&amp;EndingLineNumber=94&amp;StartingColumnNumber=0&amp;StartingLineNumber=10&amp;Timestamp=628796513.542531"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
